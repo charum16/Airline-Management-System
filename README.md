@@ -1,7 +1,7 @@
 # Airline-Management-System
 A command-line-based Airlines Management System developed in Python using MySQL for database management. This system provides core functionality for passengers, employees, and administrators, supporting tasks like booking tickets, managing flights, and employee duty scheduling.
 
-📌 Features
+📌 Features <br>
 👤 Passengers
 View flight schedules
 
